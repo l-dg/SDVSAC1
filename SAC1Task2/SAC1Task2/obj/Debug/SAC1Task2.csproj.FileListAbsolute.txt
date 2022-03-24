@@ -1,0 +1,11 @@
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\bin\Debug\SAC1Task2.exe.config
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\bin\Debug\SAC1Task2.exe
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\bin\Debug\SAC1Task2.pdb
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.Form1.resources
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.Properties.Resources.resources
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.csproj.GenerateResource.cache
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.exe
+C:\Users\lucad\source\repos\SAC1Task2\SAC1Task2\obj\Debug\SAC1Task2.pdb
